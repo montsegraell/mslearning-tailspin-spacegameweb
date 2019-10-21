@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/montse0367/Space%20Game%20-%20web/_apis/build/status/montsegraell.mslearning-tailspin-spacegameweb?branchName=master)](https://dev.azure.com/montse0367/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
