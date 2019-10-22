@@ -41,6 +41,7 @@ Generated\ Files/
 # NUNIT
 *.VisualState.xml
 TestResult.xml
+*.trx
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
